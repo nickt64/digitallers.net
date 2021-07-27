@@ -5,3 +5,10 @@ C:\Users\cudve\Documents\Digitallers\Csharp\oop\Poo\Poo\obj\Debug\Poo.csproj.Ass
 C:\Users\cudve\Documents\Digitallers\Csharp\oop\Poo\Poo\obj\Debug\Poo.csproj.CoreCompileInputs.cache
 C:\Users\cudve\Documents\Digitallers\Csharp\oop\Poo\Poo\obj\Debug\Poo.exe
 C:\Users\cudve\Documents\Digitallers\Csharp\oop\Poo\Poo\obj\Debug\Poo.pdb
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\bin\Debug\Poo.exe.config
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\bin\Debug\Poo.exe
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\bin\Debug\Poo.pdb
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\obj\Debug\Poo.csproj.AssemblyReference.cache
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\obj\Debug\Poo.csproj.CoreCompileInputs.cache
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\obj\Debug\Poo.exe
+C:\Users\cudve\Documents\Digitallers\Csharp\oop2\Fullstack%20Digitallers\Poo\obj\Debug\Poo.pdb
