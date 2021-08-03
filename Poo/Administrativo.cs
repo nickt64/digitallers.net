@@ -14,5 +14,17 @@ namespace Poo
         {
             Sueldo = s + bono;
         }
+
+
+        public override string metodoPadre()
+        {
+            // base.metodoPadre() => "Hola "
+            return base.metodoPadre() + "mundo";
+        }
+
+        public string metodoLoco()
+        {
+            return base.metodoPadre() + "mundo"; // Hola Mundo
+        }
     }
 }

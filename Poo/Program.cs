@@ -72,7 +72,7 @@ namespace Poo
             Console.ReadLine();*/
 
 
-            Administrativo a1 = new Administrativo();
+            /*Administrativo a1 = new Administrativo();
             a1.Trabajar();
            
 
@@ -89,9 +89,27 @@ namespace Poo
             v1.Legajo = 545655;
             v1.setSueldo(100000);
 
-            Console.WriteLine("{0}, {1}, ${2}", v1.Nombre, v1.Legajo, v1.getSueldo());
+            Console.WriteLine("{0}, {1}, ${2}", v1.Nombre, v1.Legajo, v1.getSueldo());*/
 
 
+            /*Vendedor v1 = new Vendedor();
+            v1.Ventas = 1000000;
+            v1.setSueldo(50000);
+
+            Console.WriteLine("El sueldo del vendedor es " + v1.getSueldo());*/
+
+            /*Administrativo a2 = new Administrativo();
+            Console.WriteLine(a2.metodoPadre());
+
+            SubAdministrativo s1 = new SubAdministrativo();
+            Console.WriteLine(s1.metodoPadre());*/
+
+
+            ClaseA ca = new ClaseA(5);
+            ClaseB cb = new ClaseB(111111111);
+            ClaseB cb2 = new ClaseB("Cadena parámetro");
+            ClaseB cb3 = new ClaseB(555555, "Parámetro loco");
+            Console.WriteLine(cb3.imprimir());
             
 
 

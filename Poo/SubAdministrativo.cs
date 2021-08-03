@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Poo
 {
-    class Vendedor:Empleado
+    class SubAdministrativo : Administrativo
     {
-        public double Ventas { get; set; }
-
-        public override void setSueldo(double s)
+        public override string metodoPadre()
         {
-            Sueldo = s + (Ventas * 0.01);
+            return base.metodoPadre() + " bis"; // Hola Mundo bis
         }
     }
 }
