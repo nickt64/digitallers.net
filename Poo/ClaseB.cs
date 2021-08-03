@@ -8,6 +8,7 @@ namespace Poo
 {
     class ClaseB : ClaseA
     {
+        public ClaseC AttrC { get; set; }
         public string AtributoClaseB { get; set; }
         public ClaseB(string c):base(c) 
         {

@@ -105,12 +105,25 @@ namespace Poo
             Console.WriteLine(s1.metodoPadre());*/
 
 
-            ClaseA ca = new ClaseA(5);
+            /*ClaseA ca = new ClaseA(5);
             ClaseB cb = new ClaseB(111111111);
             ClaseB cb2 = new ClaseB("Cadena parámetro");
             ClaseB cb3 = new ClaseB(555555, "Parámetro loco");
-            Console.WriteLine(cb3.imprimir());
-            
+            Console.WriteLine(cb3.imprimir());*/
+
+            ClaseB cb = new ClaseB(6662);
+            ClaseC cc = new ClaseC();
+
+            cb.AttrC = cc;
+
+            //Console.WriteLine(cb.AttrC);
+            /*
+             * ClaseC cc2 = cb.AttrC;
+             * cc2.imprimirMensaje();
+             * */
+
+            cb.AttrC.imprimirMensaje();
+
 
 
 
