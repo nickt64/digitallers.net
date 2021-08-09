@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
-// asociada a un ensamblado.
-[assembly: AssemblyTitle("Poo")]
+// asociada con un ensamblado.
+[assembly: AssemblyTitle("Csharp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Poo")]
+[assembly: AssemblyProduct("Csharp1")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("377ace95-89e8-4520-9128-57fdf6957be2")]
+[assembly: Guid("961edd51-ffc4-46a4-8fec-234dc0550655")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
