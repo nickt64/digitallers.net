@@ -16,5 +16,10 @@ namespace Csharp1
         {
             InitializeComponent();
         }
+
+        private void btn_enviar_Click(object sender, EventArgs e)
+        {
+            string nombre = txt_nombre.Text;
+        }
     }
 }
