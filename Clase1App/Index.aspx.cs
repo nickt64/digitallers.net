@@ -11,11 +11,17 @@ namespace Clase1App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Persona p = new Persona();
+            /*Persona p = new Persona();
             p.Nombre = "María";
             p.Apellido = "Campos";
             txt_nombre.Text = p.Nombre;
-            txt_apellido.Text = p.Apellido;
+            txt_apellido.Text = p.Apellido;*/
+        }
+
+        protected void Form_Submit(object sender, EventArgs e) 
+        {
+            nombre_ingresado.Text = txt_nombre.Text;
+            apellido_ingresado.Text = txt_apellido.Text;
         }
     }
 }
